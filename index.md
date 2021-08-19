@@ -8,20 +8,36 @@ Ingeniero de Sistemas y Computación
 
 ## Habilidades técnicas
 
-|Herramienta|Nivel de Experiencia|
-|-----------|--------------------|
-|Bash       | Avanzado           |
-### Áreas de interés
+|Lenguaje|Nivel de Experiencia|Herramienta|Nivel de Experiencia|
+|-|-|-|-|
+|Bash|Avanzado|Git/GitHub|Avanzado
+|Python|Avanzado|Google Cloud| Básico
+|JavaScript|Intermedio|Firebase|Básico
+|Java|Intermedio|
+|SQL|Intermedio
+|C++|Básico|
+|PHP|Básico|
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Áreas de interés
+
+Computación cuántica, sistemas inteligentes, dispositivos IoT, computación gráfica
 
 
-## Education
+## Educación
 
 `2015-2020`
-___Universidad Nacional de Colombia__
-## Occupation
+___Universidad Nacional de Colombia___
+-Ingeniería de Sistemas y Computación
+## Idiomas
+| |Habla|Escritura|Lectura|Escucha
+|-|-|-|-|-|
+|Inglés|S-3|W-2+|R-3|L-3|
 
+Según escala Interagency Language Roundtable (ILR)
+
+## Proyectos
+
+## Experiencia Laboral
 
 <!-- ### Footer
 
