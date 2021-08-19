@@ -29,7 +29,8 @@ Computación cuántica, sistemas inteligentes, dispositivos IoT, computación gr
 `2015-2020`
 ___Universidad Nacional de Colombia___
 - Ingeniería de Sistemas y Computación
-- 
+
+
 ## Idiomas
 ||Habla|Escritura|Lectura|Escucha
 |-|-|-|-|-|
