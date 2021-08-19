@@ -1,19 +1,18 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
 # Leonardo Avendaño Rocha
-Physicist, Mathematician, Cambridge professor.
+Ingeniero de Sistemas y Computación
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="leavendanoro@unal.edu.co">leavendanoro@unal.edu.co</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## Habilidades técnicas
 
-Standing on the shoulders of giants
+---
+layout: cv
+title: Isaac Newtons's CV
+---
 
 ### Specialized in
 
